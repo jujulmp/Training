@@ -1,1 +1,3 @@
-# Training
+# maven-project
+
+Simple Maven Project
