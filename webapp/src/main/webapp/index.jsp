@@ -22,7 +22,7 @@
 <p style="color:yellow;">Raiton power</p>
 
 
-<h4> ITACHI SAMA !! </h4>
+<h4> ITACHI SAMA !! KIRUA !!! </h4>
 
 <h6> Doton is fuckin' strong! </h6>
 
