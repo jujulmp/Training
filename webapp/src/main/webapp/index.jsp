@@ -11,12 +11,13 @@
 
 -<recette type="dessert">
 
-<titre> Pate a crepes </titre>
-
 <body>
   <p style="color:red;">Red paragraph text</p>
 </body>
 
+<p style="color:blue;">Red paragraph text</p>
+
+<h4> ITACHI SAMA !! </h4>
 
 <h6> Doton is fuckin' strong! </h6>
 
