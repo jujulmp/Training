@@ -11,27 +11,17 @@
 
 -<recette type="dessert">
 
-<titre> Pâte à crêpes </titre>
+<titre> Pate a crepes </titre>
+
+<body>
+  <p style="color:red;">Red paragraph text</p>
+</body>
 
 
--<auteur>
+<h6> Doton is fuckin' strong! </h6>
 
-<nom> Alayrangues </nom>
+<h2> Imaaaaaagine a world like that... </h2>
 
-<prenom> Sylvie </prenom>
-
-</auteur>
-
-<source href="http://paradisdescuisiniers.fr "> Mamie </source>
+<h1> WE LOVE YOU ARIANA GRANDE !!!!! </h1>
 
 
--<listeingredients nbpersonnes="3">
-<ingredient unit="gramme" qte="250"> farine </ingredient>
-<ingredient unit="piece" qte="2"> oeufs </ingredient>
-<ingredient unit="cl" qte="25"> de lait </ingredient>
-<ingredient unit="cl" qte="25"> d'eau </ingredient>
-<ingredient unit="cas" qte="2"> huile </ingredient>
-<ingredient unit="pincee" qte="1"> sel <facultatif> </ingredient>
-</listeingredients>
-
-</recette>
