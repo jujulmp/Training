@@ -11,11 +11,16 @@
 
 -<recette type="dessert">
 
-<body>
-  <p style="color:red;">Red paragraph text</p>
-</body>
+<p style="color:red;">Katon power</p>
 
-<p style="color:blue;">Red paragraph text</p>
+<p style="color:blue;">Suiton power</p>
+
+<p style="color:green;">Doton power</p>
+
+<p style="color:purple;">Futon power</p>
+
+<p style="color:yellow;">Raiton power</p>
+
 
 <h4> ITACHI SAMA !! </h4>
 
